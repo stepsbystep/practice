@@ -1,0 +1,6 @@
+streamlit
+gspread
+gspread-dataframe
+numpy==1.26.4
+pandas==1.5.3
+networkx
